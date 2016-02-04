@@ -207,9 +207,9 @@ function create_config( )
     enabled_plugins = {
       "banhammer",
       "channels",
+      "chat",
       "greeter",
       "join",
-      "tagall",
       "autoleave",
       "groupmanager",
       "help",
